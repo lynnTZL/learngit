@@ -1,2 +1,2 @@
 git is a version control tool
-i am learning git 
+i found it is easy to learn git
